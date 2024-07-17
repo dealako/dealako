@@ -8,6 +8,7 @@ I'm the Director of the Platform for The Linux Foundation, responsible for manag
 
 Some of my current tasks include:
 
+- Datalake Product Lead - after successfully transitioning a legacy datalake to Snowflake, I now lead a team responsible for managing the datalake for The Linux Foundation. We have many internal and external customers leveraging the data models, a wildly diverse set of external systems, and numerous downstream consumers who rely on our data analytic products.
 - managing internal data sources and integrations with external systems, such as Salesforce, HubSpot, GitHub, Snowflake (Data Wharehouse), Cision/Brandwatch/Google Analytics (Marketing Analytics), Cvent (Events), Sessionize (Speaker Proposals) and DocuSign (Contract/Legal).
 - capturing product requirements and building solutions. Duties cover BizOps, CloudOps, Support, IT, and Products/Services.
 - working on new onboarding automation workflows. This includes executing new workflows when events occur in our system (such as adding users to Slack, adding users to specific committees, and sending LFX platform invitations).
