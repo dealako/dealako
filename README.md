@@ -8,10 +8,10 @@ I'm the Senior Director of Engineering for The Linux Foundation, responsible for
 
 Some of my current tasks include:
 
-- AI team and product innovation. I work with vendors, engineers, leadership, and open source tools to enable our engineers and product to leverage AI technologies. We are mandated to optimize and automate our workflow and engineering capabilities for 2025 and beyond.
-- Datalake Product Lead - after successfully transitioning a legacy datalake to Snowflake, I now lead a team responsible for managing the datalake for The Linux Foundation. We have many internal and external customers leveraging the data models, a wildly diverse set of external systems, and numerous downstream consumers who rely on our data analytics products.
-- managing internal data sources and integrations with external systems, such as Salesforce, HubSpot, GitHub, Snowflake (Data Warehouse), Cision/Brandwatch/Google Analytics (Marketing Analytics), Cvent (Events), Sessionize (Speaker Proposals), and DocuSign (Contract/Legal).
-- Capturing product requirements and building solutions. Duties cover BizOps, CloudOps, Support, IT, and Products/Services.
+- AI team and product innovation - Drive AI Adoption. I work with vendors, engineers, leadership, and open source tools to enable our engineers and products to leverage AI technologies. We are mandated to optimize and automate our workflow and engineering capabilities for 2025 and beyond.
+- Datalake Product Direction and Support - after successfully transitioning a legacy datalake to utilize dbt Cloud and Snowflake, I provide oversight, direction, and general high-level leadership to the team responsible for managing the datalake for The Linux Foundation. We have many internal and external customers leveraging the data models, a wildly diverse set of external systems, and numerous downstream consumers who rely on our data analytics products.
+- Data Source Mangement Oversight - I help manage and approve internal data sources and integrations with external systems, such as Salesforce, HubSpot, GitHub, Snowflake (Data Warehouse), Cision/Brandwatch/Google Analytics (Marketing Analytics), Cvent (Events), Sessionize (Speaker Proposals), NetSuite (Finance), and DocuSign (Contract/Legal).
+- Capturing product requirements, decomposing workstreams/tasks, and driving technical solutions. Business unit duties cover BizOps, CloudOps, Support, IT, and Products/Services.
 - Working on new onboarding automation workflows. This includes executing new workflows when events occur in our system (such as adding users to Slack, adding users to specific committees, and sending LFX platform invitations).
 
 #### 🌱 Currently Learning
