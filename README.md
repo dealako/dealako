@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Deal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-deal-472b2744)
 ![San Diego](https://img.shields.io/badge/San%20Diego-CA-FF206E?style=for-the-badge&logo=googlemaps&logoColor=white)
-![US Navy Veteran](https://img.shields.io/badge/US%20Navy-Veteran-1a1a2e?style=for-the-badge&logo=shieldsdotio&logoColor=00FFEA)
 ![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Sr.%20Director%20of%20Engineering-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
@@ -16,41 +15,38 @@
 ### `== HIGH SCORES ==`
 
 ```
-1ST   LED 60+ ENGINEERS ACROSS LFX PLATFORM ............ 999900
-2ND   MIGRATED LEGACY DATALAKE TO DBT CLOUD + SNOWFLAKE . 875000
-3RD   DRIVING ORG-WIDE AI ADOPTION FOR CTO OFFICE ....... 750000
-4TH   6 YEARS US NAVY CRYPTO TECHNICIAN ................. 500000
+1ST   SHIPPED EXEC ENGINEERING METRICS DASHBOARD ........ 999900
+2ND   SCALED AGENTIC AI ADOPTION ACROSS ENG ORG ......... 950000
+3RD   ONBOARDED 65+ CONTRACTORS W/ COMPLIANCE PROGRAM ... 875000
+4TH   CO-ARCHITECTED EASYCLA (100s OF PROJECTS, MILLIONS
+      OF CONTRIBUTIONS) ................................ 800000
 ```
 
 ### `== CURRENT QUEST LOG ==`
 
-- 🤖 **AI Adoption** — rolling out AI tooling & workflows across engineering
-- 🧊 **Datalake Command** — steering dbt Cloud + Snowflake for LF's data platform
-- 🔌 **Integrations Watch** — Salesforce, HubSpot, GitHub, Cvent, NetSuite, DocuSign & more
-- ⚙️ **Onboarding Automation** — new-hire workflows across Slack, LFX, committees
+- 🧠 **AI Enablement** — designed reusable agentic AI skills & workflows (PR review, follow-up review, onboarding assistants) with training to drive org-wide adoption
+- 🚀 **Release Automation** — built CI/CD build/test/release pipelines across dozens of repos for LFX Self Serve, cutting manual release overhead
+- 📊 **Metrics Command Center** — launched an exec engineering dashboard (GitHub, Jira, PR cycle-time, AI-tooling adoption) giving leadership real-time visibility
+- 🛡️ **Compliance at Scale** — built a contractor compliance program (DocuSign + LF Education portal) from scratch, onboarding 65+ contractors
+- 🤝 **Cross-Org Delivery** — led multi-stakeholder programs spanning Finance, Product & Engineering: Tux Rewards, LF Education Stripe integration, Intercom initiative
 
 ### `== SKILL TREE / POWER-UPS ==`
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AI/LLMs](https://img.shields.io/badge/AI%2FLLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-*Currently grinding XP on neural nets, LLM agents, and Rust's memory model.*
+*Currently grinding XP on agentic AI workflows, developer-experience tooling, and executive-level metrics storytelling.*
 
 ### `== SIDE QUESTS ==`
 
 - 🌆 Living in San Diego
 - ⚽ Soccer / Football
 - ⚡ Electric cars, solar & renewable tech
-
-### `== BONUS ROUND ==`
-
-> Six years as a US Navy crypto technician, before "plug-and-play" electronics
-> pushed me into software — night school and all.
 
 ---
 
@@ -60,6 +56,6 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/CONTINUE%20%E2%96%B8-Connect%20on%20LinkedIn-ff206e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-deal-472b2744)
 
-*Thanks for stopping by 👾*
+*Thanks for stopping by 👾 — extra life earned for six years as a US Navy crypto technician, way back before "plug-and-play" pushed me into software.*
 
 </div>
